@@ -1,0 +1,16 @@
+*para acessar os dados do trabalho é necessario ter um servidor local
+-para se ter um servidor local é preciso do "XAMPP" ou "WAMPSERVER"
+-INSTALAR APENAS UM DOS DOIS-
+-ligar o "localhost" e "phpmyadmin"
+-ir em "phpmyadmin"
+-importar banco de dados
+/--------------/
+-entre nas pastas raizes do seu servidor local (xammp ou wamp) e procure a pasta "htdocs"
+logo depois é só deixar a pasta "app" dentro de htdocs(apague tudo que estiver dentro dela antes)(no xamp)
+//(no wamp eu n sei muito bem, mas imagino q seja igual)
+e depois disso é so entrar no navegador e escrever "Localhost"
+-a pasta "app" aparecerá
+-clicar la e ver o projeto
+
+
+(Talvez seja necessario mudar o "conexao.php")
